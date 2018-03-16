@@ -1,0 +1,15 @@
+Ordre d'exécution des différents fichiers :
+
+	1) Code principal.py
+	
+	2) Code camions.py
+	
+	3) Initialisation.py
+	
+	4) Test.py
+	
+Après c'est au choix :
+
+- Réseaux.py pour voir la carte des réseaux
+
+- Route simple.py pour visualiser la route d'un réseau particulier
